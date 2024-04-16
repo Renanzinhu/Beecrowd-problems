@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1>Solutions to beecrowd problems:honeybee:</h1>
+<h1>Solutions to beecrowd problems :honeybee:</h1>
 <p>Troubleshoot Beecrowd in multiple programming languages</p>
 
 </div>
